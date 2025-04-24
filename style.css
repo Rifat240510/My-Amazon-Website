@@ -255,8 +255,7 @@
     }
   
     .box-image {
-      height: 200px; /* ইমেজের উচ্চতা কমাতে হবে মোবাইল স্ক্রীনে */
-    }
+      height: 200px; 
   
     .foot-panel4 {
       height: auto;
@@ -281,7 +280,7 @@
     }
   
     .box-image {
-      height: 250px; /* ইমেজের উচ্চতা একটু বড় করা হলো ট্যাবলেটের জন্য */
+      height: 250px; 
     }
   
     .foot-panel4 {
